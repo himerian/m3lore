@@ -5,8 +5,8 @@ Welcome to M3 LOREDOCS's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   m3lore
    m3story
+   m3lore
    businessmech
 
 Indices and tables
