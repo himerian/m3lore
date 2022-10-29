@@ -18,12 +18,12 @@
 # -- Project information -----------------------------------------------------
 
 project = 'M3:LOREDOCS'
-copyright = '2022, himerian'
-author = 'himerian'
+copyright = 'Edited by Vadim & Himerian, 2022'
+author = 'Bulat "Dust" Dautov'
 
 # The full version, including alpha/beta/rc tags
-release = 'initial'
-
+release = 'beta'
+version = '0.5'
 
 # -- General configuration ---------------------------------------------------
 

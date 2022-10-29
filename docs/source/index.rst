@@ -1,16 +1,16 @@
-Welcome to M3 LOREDOCS's documentation!
-=======================================
+Механоиды: лор и история
+============================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
+   :caption: Оглавление:
 
    m3story
    m3lore
    businessmech
 
-Indices and tables
-==================
+Индексы и таблицы
+================================
 
 * :ref:`genindex`
 * :ref:`modindex`
