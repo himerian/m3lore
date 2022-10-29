@@ -9,10 +9,3 @@
    m3lore
    businessmech
 
-Индексы и таблицы
-================================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
