@@ -18,12 +18,12 @@
 # -- Project information -----------------------------------------------------
 
 project = 'M3:LOREDOCS'
-copyright = 'Edited by Vadim & Himerian, 2022'
+copyright = 'author: dust; co-author: vadim; editor: himerian; 2022'
 author = 'Bulat "Dust" Dautov'
 
 # The full version, including alpha/beta/rc tags
 release = 'beta'
-version = '0.5'
+version = '0.6'
 
 # -- General configuration ---------------------------------------------------
 
@@ -62,6 +62,7 @@ exclude_patterns = []
 #    nature
 #    haiku
 #    pyramid
+#    classic
 
 html_theme = 'classic'
 
