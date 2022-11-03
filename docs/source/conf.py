@@ -19,7 +19,7 @@
 
 project = 'M3:LOREDOCS'
 copyright = 'author: dust; co-author: vadim; editor: himerian; 2022'
-author = 'Bulat "Dust" Dautov'
+author = 'Bulat "Dust" Dautov, Vadim'
 
 # The full version, including alpha/beta/rc tags
 release = 'beta'
