@@ -63,6 +63,10 @@ exclude_patterns = []
 #    haiku
 #    pyramid
 #    classic
+#
+# ----------------------------------------------------------------------------
+#    furo
+#    pydata_sphinx_theme
 
 html_theme = 'classic'
 
