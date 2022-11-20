@@ -6936,11 +6936,7 @@ to get the result of the accent macros
 <t tx="rau.20220917082830.1"></t>
 <t tx="rau.20221001112952.2">@language rest
 @tabwidth -4
-@others
-
-##########
-Справочник
-##########</t>
+@others</t>
 <t tx="rau.20221001112952.93">@language rest
 @tabwidth -4
 @others</t>
