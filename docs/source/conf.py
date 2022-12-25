@@ -21,6 +21,8 @@ project = 'M3:LOREDOCS'
 copyright = 'author: dust; co-author: vadim; editor: himerian; 2022'
 author = 'Bulat "Dust" Dautov, Vadim, Ark'
 
+show_authors = 1
+
 # The full version, including alpha/beta/rc tags
 release = 'beta'
 version = '0.7'
@@ -76,3 +78,4 @@ html_theme = 'classic'
 html_static_path = ['_static']
 
 html_logo = '_static/mech_logo.jpg'
+
